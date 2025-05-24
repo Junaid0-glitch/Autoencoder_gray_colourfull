@@ -25,7 +25,7 @@ These results indicate that the model produces **high-quality colorizations** wi
 ---![Screenshot 2025-05-24 210253](https://github.com/user-attachments/assets/5a7bbccf-923a-460b-b4c6-21c57a91a3e2)
 
 
-![Screenshot 2025-05-24 135343](https://github.com/user-attachments/assets/fab8c653-9139-4a2d-a98f-8e1358004204)
+  ![Screenshot 2025-05-24 135343](https://github.com/user-attachments/assets/fab8c653-9139-4a2d-a98f-8e1358004204)
 
 ## **🛠️ Installation & Setup**  
 
