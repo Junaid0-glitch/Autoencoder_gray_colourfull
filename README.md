@@ -87,22 +87,3 @@ The Autoencoder consists of:
 
 ---
 
-## **📈 Training Details**  
-- **Loss Function**: **MSE (Mean Squared Error)**  
-- **Optimizer**: **Adam (lr=1e-3)**  
-- **Epochs**: **20**  
-- **Batch Size**: **64**  
-- **Hardware**: **GPU (CUDA) preferred**  
-
----
-
-## **📱 How to Use the Web App**  
-1. **Upload** a grayscale or color image (JPG/PNG).  
-2. Click **"✨ Colorize Image"**.  
-3. View the **grayscale input** and **colorized output** side by side.  
-4. **Download** the result if desired.  
-
-*(Works best on **human faces** due to CelebA training data.)*  
-
----
-
